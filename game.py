@@ -1,6 +1,4 @@
 """Игра на выживание."""
-from time import sleep, time
-
 import random
 import monsters
 import heroes
